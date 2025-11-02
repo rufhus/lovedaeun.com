@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LoveDaeun//SaveTheDate//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:save-the-date-love-daeun-20260808-1430@love-daeun
+DTSTAMP:20251102T193723Z
+DTSTART:20260808T123000Z
+DTEND:20260808T143000Z
+SUMMARY:Love & Daeun’s Wedding — Save the Date
+DESCRIPTION:Join us to celebrate in Växjö. Formal invitation to follow.
+LOCATION:Växjö Domkyrka, Växjö, Sweden
+URL:https://maps.google.com/?q=V%C3%A4xj%C3%B6%20Domkyrka,%20V%C3%A4xj%C3%B6,%20Sweden
+END:VEVENT
+END:VCALENDAR
